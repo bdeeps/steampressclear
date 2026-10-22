@@ -1,0 +1,108 @@
+{
+  "slug": "steampressclear",
+  "box": 181,
+  "date": "2026-10-20",
+  "title": "SteamPressClear",
+  "question": "How does a steam press work?",
+  "hook": "Two thousand watts into a thick metal plate, a strip of two metals that clicks it on and off, and a few drops of water that flash into steam. Take an iron apart in 3D, see why steam unlocks a crease, and meet the laundry's boiler press and the istri-wala's charcoal iron.",
+  "thumbText": "HOW A STEAM PRESS WORKS",
+  "field": "machines",
+  "minutes": 14,
+  "tags": [
+    "steam iron",
+    "ironing",
+    "press",
+    "istri",
+    "dhobi",
+    "thermostat",
+    "bimetal strip",
+    "latent heat",
+    "hydrogen bonds",
+    "glass transition",
+    "boiler",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A hot plate, a thermostat and some water",
+      "text": "A steam iron is a thick aluminium or steel soleplate with a heating element cast inside it, a bimetal thermostat under the dial, and a water tank whose drip valve lets drops fall into a steam chamber on the hot plate. At 2,000 W it draws about 8.7 A from a 230 V socket."
+    },
+    {
+      "title": "Steam unlocks the crease",
+      "text": "Cotton and wool chains are held in a fold by hydrogen bonds. Water slips between the chains and heat lets them slide above their glass transition; the iron's weight presses them flat. As the cloth cools and dries, the bonds re-form and lock the flat shape in. Polyester needs only heat, but melts if it is too hot: hence the care label's one, two or three dots, up to 110, 150 and 200 °C."
+    },
+    {
+      "title": "The heat sums",
+      "text": "The soleplate stores about 620 J per degree, so 2,000 W brings it to 200 °C in about a minute. A brass-on-invar strip curls about 2 mm as it warms and clicks the element off and on. Turning tap water into steam takes about 2,550 J a gram, so a 2,000 W iron has heat to spare for only about 40 g of steam a minute."
+    },
+    {
+      "title": "The laundry's boiler press",
+      "text": "A small boiler at 4 bar holds water at about 152 °C. Its steam blasts out about 1.5 g a second, arrives hotter than 100 °C and dry, and the hot water stores enough heat to flash into about 100 g of steam per litre. A pressure switch, a gauge, a sight glass and a safety valve keep it in check, and a vacuum table pulls the steam through the cloth and then cools it in seconds."
+    },
+    {
+      "title": "The istri-wala's charcoal iron",
+      "text": "Five kilograms of cast iron store about 2,300 J per degree, so the istri-wala's box iron stays hot between loads of charcoal; blowing on the coals gives them more air and more heat. Burning charcoal makes carbon monoxide, so it must never be used in a closed room."
+    },
+    {
+      "title": "Safe and lasting",
+      "text": "A gram of steam condensing on skin gives about ten times the heat of a gram of boiling water. Never leave an iron face-down, switch off and unplug when you step away and before filling, use an earthed socket, and never tamper with the thermostat, thermal fuse or auto shut-off. Hard water leaves limescale that clogs the steam holes."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Soleplate",
+      "def": "The flat metal bottom of an iron that touches the cloth, with the heating element cast into it."
+    },
+    {
+      "term": "Thermostat",
+      "def": "A switch, here a bimetal strip, that turns the heater off when hot enough and on again as it cools."
+    },
+    {
+      "term": "Bimetal strip",
+      "def": "Two metals bonded together that expand by different amounts, so the strip bends when heated."
+    },
+    {
+      "term": "Latent heat",
+      "def": "The heat that turns water into steam without changing its temperature: about 2,257 J for each gram."
+    },
+    {
+      "term": "Hydrogen bond",
+      "def": "A weak pull between neighbouring molecules; in cotton and wool it holds the chains in shape."
+    },
+    {
+      "term": "Glass transition",
+      "def": "The temperature above which a solid's long chains can slide, so it softens and can be reshaped."
+    },
+    {
+      "term": "Gauge pressure",
+      "def": "Pressure above the air outside, the number on a boiler's pressure gauge."
+    },
+    {
+      "term": "Safety valve",
+      "def": "A valve that opens by itself if a boiler's pressure climbs past its limit. It must never be tampered with."
+    },
+    {
+      "term": "Carbon monoxide",
+      "def": "A poisonous gas with no colour or smell, made whenever charcoal or other fuel burns."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "steampressclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

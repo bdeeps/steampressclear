@@ -1,0 +1,639 @@
+{
+  "title": "The history of the iron",
+  "tagline": "Two thousand years from a pan of hot coals to a solar ironing cart.",
+  "intro": "People have pressed cloth with heat and weight for at least two thousand years: pans of coals in China, solid sad irons, and charcoal box irons like the istri-wala's. Electricity, the thermostat and steam turned the iron into a precise machine in the twentieth century, while laundries and dhobis pressed with boilers and charcoal. Today care labels, safety standards and new kinds of power shape how we iron.",
+  "eras": [
+    {
+      "id": "fire",
+      "name": "Heat from the fire",
+      "from": -100,
+      "to": 1880,
+      "color": "#c49bff",
+      "summary": "Irons are heated in fires or filled with coals. Weight stores the heat; handles get hot."
+    },
+    {
+      "id": "electric",
+      "name": "Electric irons",
+      "from": 1882,
+      "to": 1945,
+      "color": "#ffb547",
+      "summary": "Resistance heaters, a hot point at the tip, and the bimetal thermostat that holds a set temperature."
+    },
+    {
+      "id": "steam",
+      "name": "Steam takes over",
+      "from": 1880,
+      "to": 1960,
+      "color": "#8ef0ff",
+      "summary": "Laundries press with boiler steam, a steam iron goes on sale in 1926, and India's dhobi ghats press for whole cities."
+    },
+    {
+      "id": "today",
+      "name": "Labels, standards and new power",
+      "from": 1960,
+      "to": 2026,
+      "color": "#5ce1a9",
+      "summary": "Care-label dots, compulsory safety marks, and a solar cart to replace the charcoal iron."
+    }
+  ],
+  "events": [
+    {
+      "year": -100,
+      "date": "1st century BCE",
+      "era": "fire",
+      "art": "flame",
+      "key": true,
+      "title": "Pans of hot coals smooth cloth",
+      "who": "Unknown makers",
+      "where": "China",
+      "country": "China",
+      "text": "Metal pans filled with hot coals were used to smooth fabric in China in the 1st century BCE. The pan had a flat bottom and a handle, like a large scoop, and its heat and weight pressed the cloth.",
+      "why": "It is the oldest form of the idea every iron still uses: hot, heavy and flat.",
+      "box": "istri",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1600,
+      "date": "From the 17th century",
+      "era": "fire",
+      "art": "plate",
+      "key": true,
+      "title": "The sad iron",
+      "who": "Blacksmiths and households",
+      "where": "Europe and North America",
+      "country": "Europe",
+      "text": "Thick, triangular slabs of cast iron with a handle were heated in a fire or on a stove. 'Sad' is an old English word for solid. Laundry workers kept several heating at once and swapped them as they cooled.",
+      "why": "Mass stores heat: the same reason the istri-wala's iron is heavy today.",
+      "box": "istri",
+      "sources": [
+        0,
+        1
+      ]
+    },
+    {
+      "year": 1700,
+      "date": "18th and 19th centuries",
+      "era": "fire",
+      "art": "flame",
+      "title": "Box irons filled with coals",
+      "who": "Many makers",
+      "where": "Asia, Europe and beyond",
+      "country": "Worldwide",
+      "text": "Later irons were hollow boxes filled with hot coals or a heated metal slug. Some had to be aerated with bellows to keep the coals burning. In Kerala, burning coconut shells were traditionally used in place of charcoal.",
+      "why": "This is the charcoal iron still used on India's streets, revived by a breath of air.",
+      "box": "istri",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1871,
+      "date": "4 April 1871",
+      "era": "fire",
+      "art": "scroll",
+      "key": true,
+      "title": "A cool, detachable handle",
+      "who": "Mary Florence Potts",
+      "where": "Ottumwa, Iowa",
+      "country": "USA",
+      "text": "Mary Florence Potts patented a sad iron with a detachable wooden handle (US patent 113,448), after a first patent in 1870. One handle clipped onto several iron bases, so a cooled base could be swapped for a hot one at once.",
+      "why": "It made hot irons safer to hold and ironing faster, and became one of the most popular irons ever made.",
+      "box": "safety",
+      "sources": [
+        1,
+        15
+      ]
+    },
+    {
+      "year": 1876,
+      "date": "1876",
+      "era": "fire",
+      "art": "building",
+      "title": "The cold-handled iron goes on show",
+      "who": "Mary Florence Potts",
+      "where": "Philadelphia",
+      "country": "USA",
+      "text": "Potts's cold-handled sad iron was displayed at the Philadelphia Centennial Exposition. By 1891 machines were mass-producing thousands of her wooden handles a day.",
+      "why": "A small safety idea spread around the world.",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 1880,
+      "date": "1880s",
+      "era": "steam",
+      "art": "geyser",
+      "title": "Steam comes to the laundries",
+      "who": "Commercial laundries",
+      "where": "North America and Europe",
+      "country": "Worldwide",
+      "text": "The use of steam became common in commercial laundries in the 1880s, long before it reached household irons.",
+      "why": "Steam, made in a boiler, did the heavy work first in laundries, as it still does in a boiler press.",
+      "box": "press",
+      "sources": [
+        3
+      ]
+    },
+    {
+      "year": 1882,
+      "date": "6 June 1882",
+      "era": "electric",
+      "art": "resistor",
+      "key": true,
+      "title": "The electric flatiron is patented",
+      "who": "Henry W. Seely",
+      "where": "New York",
+      "country": "USA",
+      "text": "Henry W. Seely patented an 'electric flat-iron' (US patent 259,054) with a resistance heater inside, near its face, run from a lighting circuit. It weighed almost 15 pounds (6.8 kg) and took a long time to heat.",
+      "why": "Heat made by current in a resistance is how every electric iron works.",
+      "box": "anatomy",
+      "sources": [
+        0,
+        2,
+        16
+      ]
+    },
+    {
+      "year": 1890,
+      "date": "1890",
+      "era": "steam",
+      "art": "washer",
+      "key": true,
+      "title": "Mumbai's Dhobi Ghat is built",
+      "who": "Dhobis of Bombay",
+      "where": "Mahalaxmi, Mumbai",
+      "country": "India",
+      "text": "The open-air laundry at Mahalaxmi was constructed in 1890. Today over 7,000 people wash, dry and press more than a lakh clothes a day there, for hotels, hospitals and laundries across the city.",
+      "why": "Washing and pressing for a whole city is skilled work done by hand to this day.",
+      "box": "istri",
+      "sources": [
+        9
+      ]
+    },
+    {
+      "year": 1902,
+      "date": "1902",
+      "era": "steam",
+      "art": "waterdrop",
+      "title": "A dhobi ghat for Calcutta",
+      "who": "British administration",
+      "where": "Kolkata",
+      "country": "India",
+      "text": "Inspired by Bombay's, a dhobi ghat was built in Calcutta (now Kolkata) in 1902. 'Dhobi ghat' is used all over India for any place where many washers work.",
+      "why": "The trade of washing and pressing grew with India's cities.",
+      "sources": [
+        9
+      ]
+    },
+    {
+      "year": 1904,
+      "date": "1904",
+      "era": "steam",
+      "art": "hydraulic",
+      "key": true,
+      "title": "A steam pressing machine for tailors",
+      "who": "Hoffman Pressing Machine Company",
+      "where": "Syracuse, New York",
+      "country": "USA",
+      "text": "A tailor designed a foot-operated steam pressing machine for tailors, garment factories and dry cleaners, to replace heavy hand-held steam irons, and a businessman put it into production. The company began in Syracuse in 1904; by the 1930s its successor was one of the largest US makers of laundry and dry-cleaning machines.",
+      "why": "Pressing with steam from a boiler became the way laundries and tailors work.",
+      "box": "press",
+      "sources": [
+        8
+      ]
+    },
+    {
+      "year": 1905,
+      "date": "1905",
+      "era": "electric",
+      "art": "heatwaves",
+      "key": true,
+      "title": "The iron with the hot point",
+      "who": "Earl H. Richardson",
+      "where": "Ontario, California",
+      "country": "USA",
+      "text": "Earl Richardson, a meter reader, persuaded his power company to run electricity all day on Tuesdays, ironing day, so people could use his electric irons. His wife Mary suggested more heat at the tip, for buttonholes and pleats, and laundresses refused to give the new irons back. In 1905 he sold more electric irons than any other company in America, under the name 'Hotpoint'.",
+      "why": "Putting the heat where the work is, at the point, made the electric iron popular.",
+      "box": "anatomy",
+      "sources": [
+        5,
+        6
+      ]
+    },
+    {
+      "year": 1917,
+      "date": "1917",
+      "era": "electric",
+      "art": "thermometer",
+      "title": "The first temperature settings",
+      "who": "Iron makers",
+      "where": "North America",
+      "country": "USA",
+      "text": "The first electric irons had no thermostats. Temperature settings first appeared in 1917.",
+      "why": "An iron that could not hold a temperature scorched cloth easily.",
+      "box": "heat",
+      "sources": [
+        3
+      ]
+    },
+    {
+      "year": 1926,
+      "date": "1926",
+      "era": "steam",
+      "art": "geyser",
+      "key": true,
+      "title": "The first steam iron on sale",
+      "who": "Eldec",
+      "where": "New York",
+      "country": "USA",
+      "text": "The first commercially available electric steam iron was introduced in 1926 by Eldec, a New York drying and cleaning company. It was not a commercial success.",
+      "why": "It put the laundry's steam into a household iron for the first time.",
+      "box": "anatomy",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1927,
+      "date": "1920s; 1927",
+      "era": "electric",
+      "art": "thermometer",
+      "key": true,
+      "title": "The automatic thermostat iron",
+      "who": "Joseph W. Myers and others",
+      "where": "USA",
+      "country": "USA",
+      "text": "Joseph W. Myers, later head of research at Proctor Electric, developed an automatic, adjustable temperature-control iron in the 1920s. Museums date the truly automatic adjustable thermostat iron to 1927.",
+      "why": "A bimetal thermostat lets one iron suit silk, wool and cotton: the dial on every iron today.",
+      "box": "heat",
+      "sources": [
+        3,
+        4,
+        7,
+        0
+      ]
+    },
+    {
+      "year": 1934,
+      "date": "1934",
+      "era": "steam",
+      "art": "scroll",
+      "title": "A patent for a steam iron and dampener",
+      "who": "Max Skolnik",
+      "where": "Chicago",
+      "country": "USA",
+      "text": "Max Skolnik of Chicago was granted a patent for an electric steam iron and dampener.",
+      "why": "It led to the first steam iron that sold well.",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1938,
+      "date": "1938",
+      "era": "steam",
+      "art": "geyser",
+      "title": "Steam irons catch on",
+      "who": "Max Skolnik and the Steam-O-Matic Corporation",
+      "where": "New York",
+      "country": "USA",
+      "text": "Skolnik granted the Steam-O-Matic Corporation of New York the right to make his steam-electric irons: the first steam iron to achieve any real popularity. Steam irons spread in the 1940s and 1950s.",
+      "why": "Steam at home meant no more sprinkling clothes before ironing.",
+      "box": "creases",
+      "sources": [
+        0,
+        3
+      ]
+    },
+    {
+      "year": 1941,
+      "date": "1941",
+      "era": "electric",
+      "art": "trophy",
+      "title": "Twenty million irons from one plant",
+      "who": "Hotpoint, by then part of General Electric",
+      "where": "Ontario, California",
+      "country": "USA",
+      "text": "The Ontario plant presented its 20 millionth iron, gold-plated, to Earl Richardson's sister. The 50 millionth followed in 1956, the 100 millionth in 1969 and the 150 millionth in 1980; the plant closed in 1982.",
+      "why": "The electric iron had become one of the most common machines in the home.",
+      "sources": [
+        5
+      ]
+    },
+    {
+      "year": 1963,
+      "date": "26 March 1963",
+      "era": "today",
+      "art": "word",
+      "key": true,
+      "title": "Care-label symbols",
+      "who": "GINETEX",
+      "where": "Paris",
+      "country": "France",
+      "text": "The international textile care labelling association GINETEX was founded and introduced its care symbols, including the iron with one, two or three dots. Working with ISO, they became the standard ISO 3758.",
+      "why": "The dots tell you how hot the iron may be: up to 110, 150 or 200 °C.",
+      "box": "creases",
+      "sources": [
+        10,
+        11
+      ]
+    },
+    {
+      "year": 2003,
+      "date": "2003",
+      "era": "today",
+      "art": "plug",
+      "key": true,
+      "title": "The ISI mark becomes compulsory for irons in India",
+      "who": "Government of India",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "Electric irons were listed for compulsory ISI marking under India's Electrical Wires, Cables, Appliances and Protection Devices and Accessories (Quality Control) Order, 2003, to the safety standard IS 302-2-3.",
+      "why": "Every electric iron sold in India must now be certified to a safety standard.",
+      "box": "safety",
+      "sources": [
+        12
+      ]
+    },
+    {
+      "year": 2021,
+      "date": "2021",
+      "era": "today",
+      "art": "leaf",
+      "key": true,
+      "title": "A solar ironing cart",
+      "who": "Vinisha Umashankar",
+      "where": "Tiruvannamalai, Tamil Nadu",
+      "country": "India",
+      "text": "At 14, Vinisha Umashankar designed a solar-powered ironing cart to replace the charcoal irons that press clothes for millions of Indians each day: five hours of sunshine runs the iron for six hours. It made her a finalist for the first Earthshot Prize.",
+      "why": "It keeps the istri-wala's trade and removes the charcoal smoke.",
+      "box": "istri",
+      "sources": [
+        14
+      ]
+    },
+    {
+      "year": 2023,
+      "date": "December 2023",
+      "era": "today",
+      "art": "word",
+      "title": "The care-label standard is revised",
+      "who": "ISO and GINETEX",
+      "where": "Geneva",
+      "country": "Switzerland",
+      "text": "ISO 3758 was revised again in 2023; the new edition adds a symbol for ironing without steam.",
+      "why": "Some fabrics are harmed by steam, so the label can now say so.",
+      "box": "creases",
+      "sources": [
+        11,
+        17
+      ]
+    },
+    {
+      "year": 2024,
+      "date": "2024",
+      "era": "today",
+      "art": "scales",
+      "title": "India adopts the latest iron safety standard",
+      "who": "Bureau of Indian Standards",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "BIS published IS 302 (Part 2/Sec 3):2024, the safety standard for electric irons, identical to the international IEC 60335-2-3:2022. It covers dry and steam irons, including those with a separate boiler.",
+      "why": "Indian irons are tested to the same safety rules as the rest of the world's.",
+      "box": "safety",
+      "sources": [
+        13
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Pans of hot coals used to smooth cloth",
+      "value": "1st century BCE",
+      "who": "China"
+    },
+    {
+      "label": "Detachable cold handle for a sad iron",
+      "value": "1871",
+      "who": "Mary Florence Potts, USA"
+    },
+    {
+      "label": "Electric flatiron patent",
+      "value": "1882",
+      "who": "Henry W. Seely, USA"
+    },
+    {
+      "label": "Steam pressing machine company",
+      "value": "1904",
+      "who": "Hoffman Pressing Machine Company, Syracuse, USA"
+    },
+    {
+      "label": "Commercially sold electric steam iron",
+      "value": "1926",
+      "who": "Eldec, New York, USA"
+    },
+    {
+      "label": "Adjustable automatic thermostat iron",
+      "value": "1927",
+      "who": "USA"
+    },
+    {
+      "label": "International care-label symbols",
+      "value": "1963",
+      "who": "GINETEX, France"
+    }
+  ],
+  "people": [
+    {
+      "name": "Mary Florence Potts",
+      "life": "1850 – 1922",
+      "role": "Inventor and businesswoman",
+      "from": "USA",
+      "note": "Invented the sad iron with a detachable, cool wooden handle."
+    },
+    {
+      "name": "Henry W. Seely",
+      "life": "19th century",
+      "role": "Inventor",
+      "from": "USA",
+      "note": "Patented the electric flatiron in 1882."
+    },
+    {
+      "name": "Earl H. Richardson",
+      "life": "1871 – 1934",
+      "role": "Inventor and industrialist",
+      "from": "USA",
+      "note": "Made the 'hot point' iron and talked his power company into daytime electricity on ironing day."
+    },
+    {
+      "name": "Joseph W. Myers",
+      "life": "20th century",
+      "role": "Engineer",
+      "from": "USA",
+      "note": "Developed an automatic, adjustable temperature-control iron in the 1920s."
+    },
+    {
+      "name": "Max Skolnik",
+      "life": "20th century",
+      "role": "Inventor",
+      "from": "USA",
+      "note": "Patented an electric steam iron in 1934 that led to the first popular steam iron."
+    },
+    {
+      "name": "Vinisha Umashankar",
+      "life": "born c. 2007",
+      "role": "Student inventor",
+      "from": "India",
+      "note": "Designed a solar ironing cart to replace charcoal irons, an Earthshot Prize finalist at 14."
+    }
+  ],
+  "series": [
+    {
+      "id": "hotpoint",
+      "title": "Irons made at one factory: Hotpoint, Ontario, California",
+      "unit": "million irons (running total)",
+      "log": false,
+      "after": "steam",
+      "caption": "Milestones reported by the Ontario City Library's history room: the running total of electric irons made at the Ontario plant.",
+      "points": [
+        {
+          "year": 1941,
+          "value": 20,
+          "label": "20 millionth iron, gold-plated, 1941"
+        },
+        {
+          "year": 1956,
+          "value": 50,
+          "label": "50 millionth iron, 1956"
+        },
+        {
+          "year": 1969,
+          "value": 100,
+          "label": "100 millionth iron, 1969"
+        },
+        {
+          "year": 1980,
+          "value": 150,
+          "label": "150 millionth iron, 1980; the plant closed in 1982"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "'Sad' in 'sad iron' is an old English word for solid or heavy.",
+    "Earl Richardson got his power company to run electricity all day on Tuesdays, ironing day, so people could use his irons.",
+    "Henry Seely's 1882 electric iron weighed almost 15 pounds, about 6.8 kg.",
+    "Mumbai's Dhobi Ghat, built in 1890, washes and presses more than a lakh clothes a day.",
+    "A gram of steam condensing on skin gives about ten times the heat of a gram of boiling water cooling down."
+  ],
+  "sources": [
+    {
+      "title": "Clothes iron",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Clothes_iron"
+    },
+    {
+      "title": "Mary Florence Potts",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mary_Florence_Potts"
+    },
+    {
+      "title": "US259054A: Electric flat-iron (H. W. Seely, 1882)",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US259054"
+    },
+    {
+      "title": "Electric steam/dry iron, Silex Co., 1942 (object 1992.0470.001)",
+      "publisher": "Ingenium, Canada's Museums of Science and Innovation",
+      "url": "https://collection.ingenium.ca/en/id/1992.0470.001"
+    },
+    {
+      "title": "At Home in a Century of Progress, 1920–1950: electric iron",
+      "publisher": "Illinois State Museum",
+      "url": "https://museum.state.il.us/exhibits/athome/1920/objects/eiron.htm"
+    },
+    {
+      "title": "General Electric Ontario Hotpoint Works Collection: descriptive summary",
+      "publisher": "Ontario City Library, Model Colony History Room (Online Archive of California)",
+      "url": "https://oac.cdlib.org/findaid/ark:/13030/c8qc027s/admin/"
+    },
+    {
+      "title": "Hotpoint",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hotpoint"
+    },
+    {
+      "title": "The proud history of Proctor Silex irons",
+      "publisher": "Proctor Silex (company history)",
+      "url": "https://www.proctorsilex.com/the-proud-history-of-proctor-silex-irons"
+    },
+    {
+      "title": "U.S. Hoffman Machinery Corporation",
+      "publisher": "Marist University Archives and Special Collections",
+      "url": "https://exhibits.archives.marist.edu/s/USHoffman"
+    },
+    {
+      "title": "Dhobi Ghat (Mumbai)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dhobi_Ghat_(Mumbai)"
+    },
+    {
+      "title": "Milestones",
+      "publisher": "GINETEX",
+      "url": "https://www.ginetex.net/GB/ginetex/milestones.asp"
+    },
+    {
+      "title": "Laundry symbol",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Laundry_symbol"
+    },
+    {
+      "title": "Quality control: schedule of items for compulsory ISI marking",
+      "publisher": "Chief Electrical Inspector, Government of Gujarat",
+      "url": "https://ceiced.gujarat.gov.in/quality-control"
+    },
+    {
+      "title": "IS 302 (Part 2/Sec 3):2024 / IEC 60335-2-3:2022, Electric irons",
+      "publisher": "Bureau of Indian Standards",
+      "url": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzE5MDI="
+    },
+    {
+      "title": "Vinisha Umashankar, Earthshot Prize finalist 2021",
+      "publisher": "The Earthshot Prize",
+      "url": "https://earthshotprize.org/winners-finalists/vinisha-umashankar/"
+    },
+    {
+      "title": "Mrs. Potts, Inventor",
+      "publisher": "The Henry Ford",
+      "url": "https://www.thehenryford.org/collections/explore/articles/mrs-potts-inventor"
+    },
+    {
+      "title": "Smoothing iron, 1882",
+      "publisher": "National MagLab",
+      "url": "https://nationalmaglab.org/magnet-academy/history-of-electricity-magnetism/museum/smoothing-iron-1882/"
+    },
+    {
+      "title": "New version of care labelling standard published (ISO 3758:2023)",
+      "publisher": "Intertek",
+      "url": "https://w3prep.intertek.com/products-retail/insight-bulletins/2024/new-version-of-care-labelling-standard-published-iso"
+    },
+    {
+      "title": "Protect your family and yourself from carbon monoxide poisoning",
+      "publisher": "US Environmental Protection Agency",
+      "url": "https://www.epa.gov/indoor-air-quality-iaq/protect-your-family-and-yourself-carbon-monoxide-poisoning"
+    },
+    {
+      "title": "Definitions of main terms (charcoal net calorific value)",
+      "publisher": "FAO",
+      "url": "https://www.fao.org/3/j8227e/j8227e11.htm"
+    },
+    {
+      "title": "House fire, Southall (August 2024)",
+      "publisher": "London Fire Brigade",
+      "url": "https://www.london-fire.gov.uk/incidents/2024/august/house-fire-southall"
+    }
+  ]
+}

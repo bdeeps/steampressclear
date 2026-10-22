@@ -1,0 +1,126 @@
+{
+  "slug": "steampressclear",
+  "box": 181,
+  "question": "How does a steam press work?",
+  "url": "https://glassbox.how/e/steampressclear/",
+  "app": "https://glassbox.how/steampressclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "Two thousand years from a pan of hot coals to a solar ironing cart.\n\n100 BCE: Pans of hot coals smooth cloth\n1600: The sad iron\n1871: A cool, detachable handle\n1882: The electric flatiron is patented\n1890: Mumbai's Dhobi Ghat is built\n1904: A steam pressing machine for tailors\n\nThe full story, with 22 moments, sources and charts: glassbox.how/e/steampressclear/history (link in bio)\n\nThen play with how it works: glassbox.how/steampressclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #steamiron #ironing #press #istri #dhobi #thermostat #history",
+      "youtube": {
+        "title": "The history of the iron in 45 seconds #shorts",
+        "description": "Two thousand years from a pan of hot coals to a solar ironing cart.\n\n100 BCE · Pans of hot coals smooth cloth (Unknown makers)\n1600 · The sad iron (Blacksmiths and households)\n1871 · A cool, detachable handle (Mary Florence Potts)\n1882 · The electric flatiron is patented (Henry W. Seely)\n1890 · Mumbai's Dhobi Ghat is built (Dhobis of Bombay)\n1904 · A steam pressing machine for tailors (Hoffman Pressing Machine Company)\n\n▶ Full history: https://glassbox.how/e/steampressclear/history/\n▶ Play with it: https://glassbox.how/e/steampressclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does a steam press work?\n\nTwo thousand watts into a thick metal plate, a strip of two metals that clicks it on and off, and a few drops of water that flash into steam. Take an iron apart in 3D, see why steam unlocks a crease, and meet the laundry's boiler press and the istri-wala's charcoal iron.\n\n→ A steam iron is a thick hot plate, a heating element cast inside it, a thermostat and a tank of water.\n→ The laundry's press adds a boiler at a few bar and a table that sucks the steam through the cloth.\n→ A crease is long chain molecules bent into a fold and held by hydrogen bonds.\n→ Steam slips between the chains, heat lets them slide, and the iron presses them flat. Cooling locks the shape.\n→ The thermostat is a strip of two metals: it curls as it warms and clicks the element off and on.\n\nPlay with it yourself. It's free and open source: glassbox.how/steampressclear (link in bio)\n\nBox No. 181 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #steamiron #ironing #press #istri #dhobi #thermostat #bimetalstrip #latentheat #hydrogenbonds",
+    "carousel": "Swipe through: How does a steam press work?\n\nTwo thousand watts into a thick metal plate, a strip of two metals that clicks it on and off, and a few drops of water that flash into steam. Take an iron apart in 3D, see why steam unlocks a crease, and meet the laundry's boiler press and the istri-wala's charcoal iron.\n\nSave this for later, then play with the interactive version at glassbox.how/steampressclear (link in bio).\n\nBox No. 181 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #steamiron #ironing #press #istri #dhobi #thermostat",
+    "youtube": {
+      "title": "How does a steam press work? #shorts",
+      "description": "Two thousand watts into a thick metal plate, a strip of two metals that clicks it on and off, and a few drops of water that flash into steam. Take an iron apart in 3D, see why steam unlocks a crease, and meet the laundry's boiler press and the istri-wala's charcoal iron.\n\n▶ Play with it: https://glassbox.how/e/steampressclear/\n⌘ Source code (MIT): https://github.com/bdeeps/steampressclear\n\nBox No. 181 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does a steam press work? (interactive explainer)",
+      "description": "Two thousand watts into a thick metal plate, a strip of two metals that clicks it on and off, and a few drops of water that flash into steam. Take an iron apart in 3D, see why steam unlocks a crease, and meet the laundry's boiler press and the istri-wala's charcoal iron.\n\n▶ Play with the interactive version: https://glassbox.how/e/steampressclear/\n⌘ Source code (MIT): https://github.com/bdeeps/steampressclear\n\nIn this video:\n• A hot plate, a thermostat and some water. A steam iron is a thick aluminium or steel soleplate with a heating element cast inside it, a bimetal thermostat under the dial, and a water tank whose drip valve lets drops fall into a steam chamber on the hot plate.\n• Steam unlocks the crease. Cotton and wool chains are held in a fold by hydrogen bonds.\n• The heat sums. The soleplate stores about 620 J per degree, so 2,000 W brings it to 200 °C in about a minute.\n• The laundry's boiler press. A small boiler at 4 bar holds water at about 152 °C.\n• The istri-wala's charcoal iron. Five kilograms of cast iron store about 2,300 J per degree, so the istri-wala's box iron stays hot between loads of charcoal; blowing on the coals gives them more air and more heat.\n• Safe and lasting. A gram of steam condensing on skin gives about ten times the heat of a gram of boiling water.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does a steam press work?\n\nTwo thousand watts into a thick metal plate, a strip of two metals that clicks it on and off, and a few drops of water that flash into steam.\n\nPlay with it: https://glassbox.how/e/steampressclear/",
+    "linkedin": "How does a steam press work?\n\nTwo thousand watts into a thick metal plate, a strip of two metals that clicks it on and off, and a few drops of water that flash into steam. Take an iron apart in 3D, see why steam unlocks a crease, and meet the laundry's boiler press and the istri-wala's charcoal iron.\n\n1. A hot plate, a thermostat and some water\n2. Steam unlocks the crease\n3. The heat sums\n4. The laundry's boiler press\n5. The istri-wala's charcoal iron\n6. Safe and lasting\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 181 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox.how/e/steampressclear/\nCode: https://github.com/bdeeps/steampressclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-10-22T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-10-22T08:26:06.431Z"
+}
